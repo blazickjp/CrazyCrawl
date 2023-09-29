@@ -1,0 +1,4 @@
+beutifulsoup4==4.12.2
+robotexclusionrulesparser==1.7.1
+requests==2.31.0
+urllib3==2.0.5
